@@ -84,13 +84,13 @@ CUDA Support: For GPU acceleration, install the correct CUDA-enabled PyTorch ver
 ## 📸 Screenshots
 
 ### 🔹 Homepage
-![Homepage](https://github.com/VrushabhGillarkar/Movie-Reviews-Sentiment-Analysis-Using-Machine-Learning/blob/main/Screenshot%202025-07-08%20013635.png)
+![Homepage](https://github.com/VrushabhGillarkar/Real-Time-Object-Detection/blob/main/Screenshot%202025-07-13%20201011.png)
 
 ### 🔹 Demo 1
-![Result](https://github.com/VrushabhGillarkar/Movie-Reviews-Sentiment-Analysis-Using-Machine-Learning/blob/main/Screenshot%202025-07-08%20013659.png)
+![Result 1](https://github.com/VrushabhGillarkar/Real-Time-Object-Detection/blob/main/Screenshot%202025-07-13%20201157.png)
 
 ## 📸 Demo 2
-(Add a GIF or screenshot here if available)
+![Result 2](https://github.com/VrushabhGillarkar/Real-Time-Object-Detection/blob/main/Screenshot%202025-07-13%20201229.png)
 
 ---
 ## 🙌 Acknowledgements
