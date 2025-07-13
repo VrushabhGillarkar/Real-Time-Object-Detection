@@ -33,33 +33,33 @@ A real-time object detection web application using the YOLOv8n model (`yolov8n.p
 git clone https://github.com/your-username/real-time-object-detection.git
 cd real-time-object-detection
 ```
-Install dependencies
-
-bash
-Copy
-Edit
+2. **Install dependencies**
+```
 pip install -r requirements.txt
-Download YOLOv8n model
+```
+3. **Download YOLOv8n model**
 
 The ultralytics package will automatically download yolov8n.pt on the first run.
 
 You can also manually download it from the Ultralytics Model Zoo.
 
-▶️ How to Run
+---
+##  ▶️ How to Run
 bash
 Copy
 Edit
+```
 python app.py
+```
 Then open your browser and go to:
 
 📍 http://localhost:5000/
 
 You’ll see live video with real-time object detection.
 
-📁 Project Structure
-php
-Copy
-Edit
+---
+## 📁 Project Structure
+```
 real-time-object-detection/
 │
 ├── app.py                  # Main Flask application
@@ -70,22 +70,36 @@ real-time-object-detection/
 │   └── style.css           # Optional CSS styling
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
-📌 Notes
+```
+---
+## 📌 Notes
+
 Model: YOLOv8n (yolov8n.pt) – optimized for speed and resource efficiency
 
 Webcam Required: Ensure your machine has access to a webcam
 
 CUDA Support: For GPU acceleration, install the correct CUDA-enabled PyTorch version
 
-📸 Demo
+---
+## 📸 Screenshots
+
+### 🔹 Homepage
+![Homepage](https://github.com/VrushabhGillarkar/Movie-Reviews-Sentiment-Analysis-Using-Machine-Learning/blob/main/Screenshot%202025-07-08%20013635.png)
+
+### 🔹 Demo 1
+![Result](https://github.com/VrushabhGillarkar/Movie-Reviews-Sentiment-Analysis-Using-Machine-Learning/blob/main/Screenshot%202025-07-08%20013659.png)
+
+## 📸 Demo 2
 (Add a GIF or screenshot here if available)
 
-🙌 Acknowledgements
+---
+## 🙌 Acknowledgements
 Ultralytics YOLOv8
 
 PyTorch
 
 OpenCV
 
-📃 License
+---
+## 📃 License
 This project is open-source and available under the MIT License.
